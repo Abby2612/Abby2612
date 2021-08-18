@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhilash
-- 👀 I’m interested in Data analysis, business analysis
+- 👀 I’m interested in Data analysis, Business analysis
 - 🌱 I’m currently working as a Data Analyst at a2b Australia
 - 💞️ I’m looking to collaborate on new ideas related to Data
 - 📫 Reach me on abhilashpayghan03@gmail.com
